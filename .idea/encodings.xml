@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/microservice-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-eureka-server-2001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-eureka-server-2001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-eureka-server-2002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-eureka-server-2002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-eureka-server-2003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-eureka-server-2003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-consumer-feign-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-consumer-feign-80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-consumer-hystrix-dashboard-90/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-consumer-hystrix-dashboard-90/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-consumer-hystrix-turbine-91/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-consumer-hystrix-turbine-91/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-provider-hystrix-1004/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-provider-hystrix-1004/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-provider-hystrix-1005/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-student-provider-hystrix-1005/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-zuul-3001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-zuul-3001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-eureka-server-2001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-eureka-server-2001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-eureka-server-2002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-eureka-server-2002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-eureka-server-2003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-eureka-server-2003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-consumer-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-consumer-80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-consumer-feign-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-consumer-feign-80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-consumer-hystrix-dashboard-90/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-consumer-hystrix-dashboard-90/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-consumer-hystrix-turbine-91/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-consumer-hystrix-turbine-91/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-provider-1001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-provider-1001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-provider-1002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-provider-1002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-provider-1003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-provider-1003/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-provider-hystrix-1004/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-provider-hystrix-1004/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-provider-hystrix-1005/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-student-provider-hystrix-1005/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-zuul-3001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice/microservice-zuul-3001/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-student-provider-hystrix-1005/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-student-provider-hystrix-1004/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-student-consumer-hystrix-turbine-91/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-student-consumer-hystrix-dashboard-90/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-student-consumer-feign-80/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-eureka-server-2003/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-eureka-server-2002/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-eureka-server-2001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-common/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/microservice/microservice-common/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/microservice-eureka-server-2001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/microservice-eureka-server-2002/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/microservice-eureka-server-2003/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/microservice-student-consumer-80/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/microservice-student-consumer-feign-80/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/microservice-student-consumer-hystrix-dashboard-90/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/microservice-student-consumer-hystrix-turbine-91/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/microservice-student-provider-1001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/microservice-student-provider-1002/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/microservice-student-provider-1003/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/microservice-student-provider-hystrix-1004/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/microservice-student-provider-hystrix-1005/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice/microservice-zuul-3001/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-common (1)" />
+        <module name="microservice-student-provider-hystrix-1004 (1)" />
+        <module name="microservice-student-consumer-hystrix-dashboard-90 (1)" />
+        <module name="microservice-student-provider-hystrix-1005 (1)" />
+        <module name="microservice-student-consumer-hystrix-turbine-91 (1)" />
+        <module name="microservice-eureka-server-2002 (1)" />
+        <module name="microservice-eureka-server-2001 (1)" />
+        <module name="microservice-student-consumer-feign-80 (1)" />
+        <module name="microservice-eureka-server-2003 (1)" />
+        <module name="microservice-zuul-3001 (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservice" target="1.8" />
+      <module name="microservice-common" target="1.8" />
+      <module name="microservice-common (1)" target="1.8" />
+      <module name="microservice-eureka-server-2001" target="1.8" />
+      <module name="microservice-eureka-server-2001 (1)" target="1.8" />
+      <module name="microservice-eureka-server-2002" target="1.8" />
+      <module name="microservice-eureka-server-2002 (1)" target="1.8" />
+      <module name="microservice-eureka-server-2003" target="1.8" />
+      <module name="microservice-eureka-server-2003 (1)" target="1.8" />
+      <module name="microservice-student-consumer-80" target="1.8" />
+      <module name="microservice-student-consumer-feign-80" target="1.8" />
+      <module name="microservice-student-consumer-feign-80 (1)" target="1.8" />
+      <module name="microservice-student-consumer-hystrix-dashboard-90" target="1.8" />
+      <module name="microservice-student-consumer-hystrix-dashboard-90 (1)" target="1.8" />
+      <module name="microservice-student-consumer-hystrix-turbine-91" target="1.8" />
+      <module name="microservice-student-consumer-hystrix-turbine-91 (1)" target="1.8" />
+      <module name="microservice-student-provider-1001" target="1.8" />
+      <module name="microservice-student-provider-1002" target="1.8" />
+      <module name="microservice-student-provider-1003" target="1.8" />
+      <module name="microservice-student-provider-hystrix-1004" target="1.8" />
+      <module name="microservice-student-provider-hystrix-1004 (1)" target="1.8" />
+      <module name="microservice-student-provider-hystrix-1005" target="1.8" />
+      <module name="microservice-student-provider-hystrix-1005 (1)" target="1.8" />
+      <module name="microservice-zuul-3001" target="1.8" />
+      <module name="microservice-zuul-3001 (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

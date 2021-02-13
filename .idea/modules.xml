@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cloud.iml" filepath="$PROJECT_DIR$/.idea/Cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microservice.iml" filepath="$PROJECT_DIR$/microservice/microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-common/microservice-common (1).iml" filepath="$PROJECT_DIR$/microservice-common/microservice-common (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-eureka-server-2001/microservice-eureka-server-2001 (1).iml" filepath="$PROJECT_DIR$/microservice-eureka-server-2001/microservice-eureka-server-2001 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-eureka-server-2002/microservice-eureka-server-2002 (1).iml" filepath="$PROJECT_DIR$/microservice-eureka-server-2002/microservice-eureka-server-2002 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-eureka-server-2003/microservice-eureka-server-2003 (1).iml" filepath="$PROJECT_DIR$/microservice-eureka-server-2003/microservice-eureka-server-2003 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-student-consumer-feign-80/microservice-student-consumer-feign-80 (1).iml" filepath="$PROJECT_DIR$/microservice-student-consumer-feign-80/microservice-student-consumer-feign-80 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-student-consumer-hystrix-dashboard-90/microservice-student-consumer-hystrix-dashboard-90 (1).iml" filepath="$PROJECT_DIR$/microservice-student-consumer-hystrix-dashboard-90/microservice-student-consumer-hystrix-dashboard-90 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-student-consumer-hystrix-turbine-91/microservice-student-consumer-hystrix-turbine-91 (1).iml" filepath="$PROJECT_DIR$/microservice-student-consumer-hystrix-turbine-91/microservice-student-consumer-hystrix-turbine-91 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-student-provider-hystrix-1004/microservice-student-provider-hystrix-1004 (1).iml" filepath="$PROJECT_DIR$/microservice-student-provider-hystrix-1004/microservice-student-provider-hystrix-1004 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-student-provider-hystrix-1005/microservice-student-provider-hystrix-1005 (1).iml" filepath="$PROJECT_DIR$/microservice-student-provider-hystrix-1005/microservice-student-provider-hystrix-1005 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-zuul-3001/microservice-zuul-3001 (1).iml" filepath="$PROJECT_DIR$/microservice-zuul-3001/microservice-zuul-3001 (1).iml" />
+    </modules>
+  </component>
+</project>
